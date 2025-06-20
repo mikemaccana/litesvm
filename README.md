@@ -55,6 +55,11 @@ assert_eq!(from_account.unwrap().lamports, 4936);
 assert_eq!(to_account.unwrap().lamports, 64);
 ```
 
+### Additional Examples
+
+[cavemanloverboy durable nonce repo](https://github.com/cavemanloverboy/nawnce/blob/main/src/lib.rs)
+[Pyth Express Relay](https://github.com/pyth-network/per)
+
 ### 🛠️ Developing litesvm
 
 #### Run the tests
